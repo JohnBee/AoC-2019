@@ -21,3 +21,11 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+
+# idea
+*/.idea
+*.txt
+C++/AOC-2019/AOC-2019.layout
+*.cbp
+AOC-2019-Java/AOC-2019.iml
+*.cpp
